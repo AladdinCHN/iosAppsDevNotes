@@ -1,3 +1,3 @@
-# iosAppDevNotes
+# iosAppsDevNotes
 
-iOS APP Dev. Study Notes for personal purpose.
+iOS APP Dev - Study Notes for personal purpose.
